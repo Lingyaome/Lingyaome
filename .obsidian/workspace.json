@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记/index.md",
+                "file": "笔记/日常/未命名.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "笔记/index.md",
+                "file": "笔记/日常/未命名.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "笔记/index.md"
+                "file": "笔记/日常/未命名.md"
               }
             }
           },
@@ -183,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "笔记/index.md",
+                "file": "笔记/日常/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "笔记/index.md",
+                "file": "笔记/日常/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -237,9 +237,10 @@
   },
   "active": "b5dfc4e6c8287ee4",
   "lastOpenFiles": [
+    "笔记/index.md",
+    "笔记/日常/未命名.md",
     "笔记/日常",
     "笔记/未命名.md",
-    "笔记/index.md",
     "README.md",
     "笔记/未确认 494389.crdownload",
     "toc.md",
@@ -281,7 +282,6 @@
     "笔记/🧮 数学/空洞的想法.md",
     "笔记/🧮 数学",
     "笔记/🧩 开源贡献/Kubernetes/开始之前.md",
-    "笔记/🧩 开源贡献/Kubernetes/assets",
     "笔记/🤖 AI 人工智能/通过阅读 dlrover 源码学习训练时的自动冗灾恢复和 checkpoint 同步加速.md",
     "未命名.canvas"
   ]
