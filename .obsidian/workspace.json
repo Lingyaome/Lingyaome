@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记/🎉个人/居然！.md",
+                "file": "笔记/📚读笔/论英雄.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "笔记/🎉个人/居然！.md",
+                "file": "笔记/📚读笔/论英雄.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "笔记/🎉个人/居然！.md"
+                "file": "笔记/📚读笔/论英雄.md"
               }
             }
           },
@@ -188,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "笔记/🎉个人/居然！.md",
+                "file": "笔记/📚读笔/论英雄.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "笔记/🎉个人/居然！.md",
+                "file": "笔记/📚读笔/论英雄.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,11 +241,13 @@
   },
   "active": "82894d2f194bda61",
   "lastOpenFiles": [
+    "笔记/🎉个人/居然！.md",
+    "笔记/📚读笔/论英雄.md",
+    "笔记/📚读笔",
     "视图/未添加标签的页面.md",
     "笔记/🎉个人",
     "笔记/未命名.md",
     "public/android-chrome-192x192.png",
-    "笔记/🎉个人/居然！.md",
     "未命名.md",
     "笔记/index.md",
     "视图/尚未编写完成的页面.md",
@@ -285,7 +287,6 @@
     "笔记/🤖 AI 人工智能/安装和配置 NVIDIA 的 Apex.md",
     "笔记/🛠️ 开发/語 编程语言/🐍 Python/配置 Anaconda 的环境目录和包目录.md",
     "笔记/🪄 Vtuber/在 macOS 上不同的 VTuber 直播方案.md",
-    "笔记/🪄 Vtuber/assets/屏幕录制2023-12-08 23.37.26.mov",
     "未命名.canvas"
   ]
 }
