@@ -36,4 +36,4 @@ features:
     icon: 🗃
 ---
 
-<!-- <HomePage /> -->
+<HomePage />
