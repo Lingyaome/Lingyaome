@@ -45,6 +45,18 @@ export const creators: Creator[] = [
     nameAliases: ['LittleSound', '绚香音', '絢香音', 'Rizumu Oikawa', 'Rizumu Ayaka', 'Ayaka Rizumu', 'Rizumu'],
     emailAliases: ['rizumu@ayaka.moe', 'rizumu@oqo.moe'],
   },
+  {
+    name: 'Tian',
+    avatar: '',
+    username: 'Tian',
+    title: '网页维护者',
+    desc: '开发者，前后端系统维护，后端开发，数据分析，个人爱好者',
+    links: [
+      { type: 'github', icon: 'github', link: 'https://github.com/Lingyaome' },
+    ],
+    nameAliases: ['Tian'],
+    emailAliases: ['tian_plus@outlook.com', 'lingyaome@gmail.com'],
+  },
 ].map<Creator>((c) => {
   c.avatar = c.avatar || getAvatarUrl(c.username)
   return c as Creator
