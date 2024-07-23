@@ -3,11 +3,11 @@ layout: home
 sidebar: false
 
 title: Nólëbase
-titleTemplate: TBlog|Tian的日常记录
+titleTemplate: Tian的日常记录
 
 hero:
   name: g~Nj$3J2^
-  text: TBlog|Tian的日常记录
+  text: Tian的日常记录
   tagline: 记录个人日常生活的点滴，不仅仅是一种简单的行为，它更像是一场细腻而丰富的情感与记忆的编织过程。
   image:
     src: /logo.svg
