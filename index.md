@@ -3,7 +3,7 @@ layout: home
 sidebar: false
 
 title: Nólëbase
-titleTemplate: 记录回忆，知识和畅想的地方
+titleTemplate: 记录回忆，知识和畅想的地方1
 
 hero:
   name: g~Nj$3J2^

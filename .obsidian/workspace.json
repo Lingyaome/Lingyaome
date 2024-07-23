@@ -11,24 +11,15 @@
             "id": "c01998b6274879fd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "f3ffc3ee92df043f",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记/NXT/未命名.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +94,7 @@
       {
         "id": "166ecf9eee3475b0",
         "type": "tabs",
-        "dimension": 31.92019950124688,
+        "dimension": 61.5,
         "children": [
           {
             "id": "d9c447a5c56d10b5",
@@ -111,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "笔记/NXT/未命名.md",
+                "file": "index.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -158,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "笔记/NXT/未命名.md"
+                "file": "index.md"
               }
             }
           },
@@ -170,12 +161,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "00f8f8ad2cb9f9b0",
         "type": "tabs",
-        "dimension": 68.07980049875312,
+        "dimension": 38.5,
         "children": [
           {
             "id": "ccb7652bb733a848",
@@ -183,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "笔记/NXT/未命名.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "笔记/NXT/未命名.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,8 +214,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 362.5,
-    "collapsed": true
+    "width": 362.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -235,19 +226,22 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f3ffc3ee92df043f",
+  "active": "c01998b6274879fd",
   "lastOpenFiles": [
+    "public/logo.svg",
+    "README.md",
     "笔记/index.md",
+    "🔌 知识库插件列表.md",
+    "index.md",
+    "toc.md",
+    "笔记/☀️ 生活/🏠 租房/租房流程.md",
     "笔记/NXT/未命名.md",
     "笔记/NXT",
     "未命名",
     "笔记/日常/未命名.md",
     "笔记/日常",
     "笔记/未命名.md",
-    "README.md",
     "笔记/未确认 494389.crdownload",
-    "toc.md",
-    "index.md",
     "笔记/🎨 设计/assets/Pasted image 20240619153923.png",
     "笔记/🎨 设计/image.png",
     "笔记/🎨 设计/assets/Pasted image 20240619151152.png",
@@ -280,9 +274,6 @@
     "笔记/🧱 基础设施/🚢 Kubernetes/将 TrueNAS 共享存储连接到 K8s 集群.md",
     "笔记/🧱 基础设施/🚢 Kubernetes/kubectl 速查表.md",
     "笔记/🧱 基础设施/🚢 Kubernetes/Pod 错误排查之.md",
-    "笔记/🧱 基础设施/云上集群的 GPU.md",
-    "笔记/🧮 数学/空洞的想法.md",
-    "笔记/🧩 开源贡献/Kubernetes/开始之前.md",
     "未命名.canvas"
   ]
 }
