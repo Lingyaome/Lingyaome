@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记/🎉个人/记忆.md",
+                "file": "笔记/作文/这不过是个开场.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "笔记/🎉个人/记忆.md",
+                "file": "笔记/作文/这不过是个开场.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "笔记/🎉个人/记忆.md"
+                "file": "笔记/作文/这不过是个开场.md"
               }
             }
           },
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "笔记/🎉个人/记忆.md",
+                "file": "笔记/作文/这不过是个开场.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "笔记/🎉个人/记忆.md",
+                "file": "笔记/作文/这不过是个开场.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,8 +227,8 @@
   },
   "active": "82894d2f194bda61",
   "lastOpenFiles": [
-    "笔记/📚读笔/【水浒传】论英雄P2.md",
     "笔记/🎉个人/记忆.md",
+    "笔记/📚读笔/【水浒传】论英雄P2.md",
     "笔记/🎉个人/居然！.md",
     "笔记/🎉个人/化学.md",
     "笔记/📚读笔/【水浒传】论英雄P1.md",
