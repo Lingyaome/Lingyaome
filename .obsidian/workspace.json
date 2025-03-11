@@ -16,7 +16,9 @@
                 "file": "笔记/作文/这不过是个开场.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "这不过是个开场"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
             }
           },
           {
@@ -62,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "starred",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
             }
           },
           {
@@ -70,7 +78,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
             }
           },
           {
@@ -78,7 +88,9 @@
             "type": "leaf",
             "state": {
               "type": "recent-files",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
             }
           }
         ]
@@ -128,7 +140,9 @@
                   "scale": 1.9885368456908947,
                   "close": true
                 }
-              }
+              },
+              "icon": "lucide-git-fork",
+              "title": "这不过是个开场 的关系图"
             }
           },
           {
@@ -140,7 +154,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-file",
+              "title": "插件不再活动"
             }
           },
           {
@@ -150,7 +166,9 @@
               "type": "outline",
               "state": {
                 "file": "笔记/作文/这不过是个开场.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "这不过是个开场 的大纲"
             }
           },
           {
@@ -158,7 +176,9 @@
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
             }
           }
         ],
@@ -183,7 +203,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "这不过是个开场 的反向链接列表"
             }
           },
           {
@@ -195,7 +217,9 @@
                 "file": "笔记/作文/这不过是个开场.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "这不过是个开场 的出链列表"
             }
           },
           {
@@ -206,7 +230,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
             }
           }
         ]
@@ -228,11 +254,12 @@
   "active": "82894d2f194bda61",
   "lastOpenFiles": [
     "笔记/🎉个人/记忆.md",
+    "笔记/作文/这不过是个开场.md",
+    "笔记/🎉个人/自警.md",
     "笔记/📚读笔/【水浒传】论英雄P2.md",
     "笔记/🎉个人/居然！.md",
     "笔记/🎉个人/化学.md",
     "笔记/📚读笔/【水浒传】论英雄P1.md",
-    "笔记/作文/这不过是个开场.md",
     "未命名.canvas",
     "笔记/index.md",
     "笔记/作文",
@@ -272,7 +299,6 @@
     "node_modules/@nolebase",
     "笔记/🧱 基础设施/🛜 OpenWRT/从 openclash 迁移到 sing-box.md",
     "笔记/🧱 基础设施/容器里没有 ps 怎么办？.md",
-    "笔记/🤖 AI 人工智能/用 PyTorch Lightning 监控和串流 PyTorch 的训练进度.md",
-    "笔记/🤖 AI 人工智能/验证 Anaconda 和 Mamba 安装的 PyTorch 和 CUDA 是否正确.md"
+    "笔记/🤖 AI 人工智能/用 PyTorch Lightning 监控和串流 PyTorch 的训练进度.md"
   ]
 }
