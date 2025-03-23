@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记/文选/我眼中的色彩.md",
+                "file": "笔记/文选/渐入佳境.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "我眼中的色彩"
+              "title": "渐入佳境"
             }
           }
         ],
@@ -181,13 +181,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "笔记/文选/我眼中的色彩.md",
+                "file": "笔记/文选/渐入佳境.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "我眼中的色彩 的大纲"
+              "title": "渐入佳境 的大纲"
             }
           },
           {
@@ -214,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "笔记/文选/我眼中的色彩.md",
+                "file": "笔记/文选/渐入佳境.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,7 +224,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "我眼中的色彩 的反向链接列表"
+              "title": "渐入佳境 的反向链接列表"
             }
           },
           {
@@ -272,8 +272,8 @@
   },
   "active": "3b33955cb3eeb3a9",
   "lastOpenFiles": [
-    "笔记/文选/渐入佳境.md",
     "笔记/文选/我眼中的色彩.md",
+    "笔记/文选/渐入佳境.md",
     "笔记/🎉个人/无题.md",
     "笔记/文选",
     "笔记/未命名.md",
