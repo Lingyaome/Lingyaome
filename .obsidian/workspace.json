@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "就是这个味道"
             }
-          },
-          {
-            "id": "3b33955cb3eeb3a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "笔记/🎉个人/自警.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "自警"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -214,7 +199,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "笔记/🎉个人/自警.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,7 +208,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "自警 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -270,7 +254,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "3b33955cb3eeb3a9",
+  "active": "b5dfc4e6c8287ee4",
   "lastOpenFiles": [
     "笔记/🎉个人/无题.md",
     "笔记/文选/渐入佳境.md",
